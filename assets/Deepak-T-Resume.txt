@@ -1,0 +1,60 @@
+Name: Deepak T
+Role: AI/ML & Python Developer
+Location: Theni, Tamil Nadu, India
+Email: tdeepakopy@gmail.com
+Phone: +91 8838473541
+LinkedIn: https://linkedin.com/in/deepak-t-2b4648203
+GitHub: https://github.com/Deepak777
+
+Professional Summary:
+AI/ML and Python Developer with a strong foundation in computer science and hands-on experience building real-world applications. Experienced in machine learning, NLP, automation, and full-stack development. Proven ability to quickly learn new technologies and deliver scalable, production-ready solutions.
+
+Skills:
+Python, Machine Learning, NLP, SQL, Regex,
+Flask, Streamlit, .NET,
+HTML, CSS, JavaScript, Angular, React,
+Docker, Git, GitHub, Netlify, PWA,
+n8n, Google Sheets, Gmail APIs, HRMS,
+Cybersecurity fundamentals, Data Analytics
+
+Experience:
+AI/ML & Python Developer – Cube AI Solutions
+- Developed AI/ML applications using Python
+- Implemented and integrated machine learning models
+- Worked on NLP, automation, and backend services
+- Received Award of Excellence and Certificate of Appreciation
+
+Engineering Graduate / Developer – Cube AI Solutions
+- Developed web applications using Angular and .NET
+- Worked on HRMS modules using Angular, .NET, and SQL
+- Collaborated on team-based business solutions
+
+Projects:
+- Human Activity Monitoring – YOLOv8-based activity detection system
+- Voice Translator – Real-time voice translation web app converted to mobile APK using PWA
+- Patient Tracking & Note Summarization – Audio transcription and CRUD-based healthcare system
+- Resume Parser & Filtering Agent – n8n workflow for resume extraction and filtering
+- Google Sheets Chatbot – Natural language chatbot querying Google Sheets
+- Natural Language to SQL Query Generator – Flask-based UI converting queries to MySQL
+- Legal Document Risk Analyzer – Streamlit app using NLP for legal analysis
+- LinkedIn Automation Agent – Automated content posting using n8n and Docker
+- E-Waste Classification – CNN-based waste classification model
+- Image Classification System – CNN with transfer learning achieving 90%+ accuracy
+
+Education:
+Bachelor of Engineering in Computer Science
+Hindustan College of Engineering and Technology (2017–2021)
+
+Certifications:
+- Full Stack Developer Internship – Nohitatu Software Development Pvt Ltd
+- Programming Fundamentals in C – Coursera
+- Python – GUVI
+- Python & Machine Learning – ShapeAI
+- JavaScript & React JS – ShapeAI
+- Python & Data Analytics – ShapeAI
+- Python & Cybersecurity – ShapeAI
+- Data Analytics & Excel Dashboard – ShapeAI
+
+Languages:
+Tamil – Native
+English – Proficient
